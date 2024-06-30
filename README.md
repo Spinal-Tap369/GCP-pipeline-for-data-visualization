@@ -50,7 +50,7 @@ pyspark save_dataframes/save_dataframes.py
 ### 8. Visualization
 Follow the instructions in `visualization/looker_studio_instructions.md.`
 
-### Project Team Members
+## Project Team Members
 https://github.com/karanzaveri
 
 https://github.com/Spinal-Tap369
