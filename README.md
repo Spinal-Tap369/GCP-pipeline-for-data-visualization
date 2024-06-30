@@ -37,7 +37,7 @@ This repository contains the code to set up an end-to-end data pipeline for an e
 hive -f hive_setup/hive_setup_commands.sql
 ```
 
-### 6. PySpark Setup
+### 6. PySpark Setups
 ```powershell
 pyspark pyspark_setup/pyspark_setup.py
 ```
